@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0;
+}
+
+main {
+    min-height: 100vh;
+}
+
+.porfolio-section:nth-child(1) {
+    background: linear-gradient(to bottom, #c1292e 50%, white 50%);
+}
+
+.porfolio-section:nth-child(2) {
+    background: linear-gradient(to bottom, #235789 50%, white 50%);
+}
+
+.porfolio-section:nth-child(3) {
+    background: linear-gradient(to bottom, #4f1271 50%, white 50%);
+}
+
+.porfolio-section:nth-child(4) {
+    background: linear-gradient(to bottom, #161925 50%, white 50%);
+}
